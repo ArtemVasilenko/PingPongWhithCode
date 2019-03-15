@@ -14,6 +14,7 @@ class ViewController: UIViewController {
     var ball = UIView()
     var rocket = UIView()
     
+    
     var zoneX = 0
     var zoneY = 0
     
